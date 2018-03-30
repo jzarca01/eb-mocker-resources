@@ -1,0 +1,11 @@
+{
+  "name": "eb-mocker-resources",
+  "version": "1.0.0",
+  "description": "JSON Schemas to be used with eb-mocker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremie Zarca",
+  "license": "ISC"
+}
